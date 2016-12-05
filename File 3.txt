@@ -2,3 +2,4 @@ New file 3 in master branch
 
 promenjen fajl 3
 
+Stashed changes.
